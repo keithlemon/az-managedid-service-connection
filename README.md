@@ -1,0 +1,1 @@
+# az-managedid-service-connection
